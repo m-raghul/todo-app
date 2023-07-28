@@ -50,4 +50,5 @@ angular.json
 
 # Ignore the package-lock file
 package-lock.json
+
 .editorconfig
