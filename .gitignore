@@ -29,6 +29,7 @@ yarn-error.log
 .history/*
 
 # Miscellaneous
+.angular
 /.angular/cache
 .sass-cache/
 /connect.lock
@@ -40,3 +41,15 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+# Ignore files for Visual Studio Code
+.vscode
+
+# Ignore the editorconfig file
+.editorconfig
+
+# Ignore the Angular configuration file
+angular.json
+
+# Ignore the package-lock file
+package-lock.json
